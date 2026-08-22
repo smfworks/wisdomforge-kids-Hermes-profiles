@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Local state
+.state/
+*.log
+
+# Secrets and generated child profiles — never commit
+.env
+.env.*
+*.key
+profiles/
+private/
+design-records/
+*.local.md
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+*.swp

@@ -1,0 +1,26 @@
+# MEMORY.md seed
+
+Format for the child agent's operational notes. Not a diary. No real family
+data in this repository.
+
+```text
+Profile band: [5-10 | 11-14 | 15-18]. Interface: [INTERFACE]. Supervision: [MODEL].
+§
+Durable memory writes are [DISABLED | PARENT-APPROVAL | NARROW-AUTO].
+§
+When [RECURRING CONTEXT], what helped was [COMPACT LESSON, NO IDENTITY LABEL].
+§
+Parent correction: [DURABLE CORRECTION].
+```
+
+Good: a correction, a stable tool fact, a compact lesson, emotion tied to a
+situation and what helped.
+
+Bad: task logs, transcripts, secrets, diagnoses, “the child is anxious,”
+crisis disclosures, another person’s private information.
+
+Example of acceptable emotional context:
+
+```text
+During a multi-step project, too many steps at once stalled them. A three-item list helped them start.
+```

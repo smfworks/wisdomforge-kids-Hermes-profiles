@@ -1,0 +1,27 @@
+# USER.md seed
+
+Format for the generated child profile at `$HERMES_HOME/memories/USER.md`
+(or the profile memories path). Do not put real child data in this repository.
+
+Parent reviews every entry. Keep it compact. Hermes has a character limit.
+Declarative facts only. Behavior belongs in SOUL.md.
+
+```text
+[CHILD DISPLAY NAME OR APPROVED REFERENCE] is in the WisdomForge [5-10 | 11-14 | 15-18] band.
+§
+[CHILD] prefers [answer length, humor, correction style].
+§
+[CHILD] learns best through [hints | stories | practice problems | discussion].
+§
+Durable interests: [APPROVED LIST].
+§
+Optional: currently reading WisdomForge booklet [FIGURE TITLE ONLY].
+§
+[APPROVED FAMILY TERMS THAT IMPROVE HELP]. Treat as private.
+```
+
+## Usually exclude
+
+Credentials, precise home or school location, moment-by-moment schedules,
+temporary moods, inferred diagnoses, crisis disclosures, raw chat logs,
+anything the child or parent asked to forget.
