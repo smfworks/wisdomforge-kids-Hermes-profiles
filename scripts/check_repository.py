@@ -18,6 +18,7 @@ REQUIRED = [
     "EXAMPLE.md",
     "MAINTENANCE.md",
     "MEMORY-REVIEW.md",
+    "WISDOMFORGE.md",
     "LICENSE",
     "seeds/SOUL.elementary.md.seed",
     "seeds/SOUL.middle.md.seed",

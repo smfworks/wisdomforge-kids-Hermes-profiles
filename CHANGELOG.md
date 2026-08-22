@@ -7,3 +7,4 @@
 - Band contract, three SOUL seeds, USER/MEMORY seeds, decisions, evals,
   synthetic examples, start-here prompt.
 - Attribution to tmchow/hermes-kids-profile-blueprint as inspiration.
+- WisdomForge pairing note: booklets as the first classroom, not a lecture dump.

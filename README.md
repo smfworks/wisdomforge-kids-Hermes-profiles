@@ -1,6 +1,8 @@
-# WisdomForge Kids Profiles
+# WisdomForge Kids Hermes Profiles
 
-A parent-operated starter kit for a **private, child-facing [Hermes](https://hermes-agent.nousresearch.com/docs) profile** in one [WisdomForge](https://www.smfwisdomforge.com) age band:
+A parent-operated starter kit for a **private, child-facing [Hermes](https://hermes-agent.nousresearch.com/docs) profile** in one [WisdomForge](https://www.smfwisdomforge.com) age band.
+
+Adults who already use WisdomForge with their children can stand up a **separate** Hermes agent for each child, then customize it for homework, questions, creative work, and especially the evolving WisdomForge booklets — without handing the child an adult profile.
 
 | Band | Ages | Learning ritual |
 |------|------|-----------------|
@@ -27,6 +29,20 @@ START-HERE.md, BANDS.md, and DECISIONS.md in this repository.
 The agent asks the band first, proposes conservative defaults, and must show
 the full design before it creates anything. It must create a **fresh** profile.
 It must not clone an adult profile.
+
+## WisdomForge as the first classroom
+
+This kit is general enough for many child uses. Its home is WisdomForge:
+
+- Match the booklet the child is actually reading (Epictetus elementary, Seneca
+  middle, and so on) — title only, in parent-approved USER.md.
+- Use that figure as a source of questions and practice, not a lecture dump.
+- Keep the same teaching ritual as the booklet for that band (Ask a Grown-Up,
+  Talk About It, Practice and Reflect).
+- As new WisdomForge figures and booklets ship, the parent can name the new
+  title. The SOUL and capability defaults stay; the reading list changes.
+
+See `WISDOMFORGE.md` for pairing rules.
 
 ## Defaults we chose on purpose
 
@@ -63,6 +79,7 @@ pedagogy. It is not a fork.
 - `seeds/` — SOUL per band, USER, MEMORY
 - `EVALS.md` — tests, including band extras
 - `EXAMPLE.md` — synthetic Willow, Juniper, Cedar
+- `WISDOMFORGE.md` — pairing a profile with booklets
 - `MEMORY-REVIEW.md`, `MAINTENANCE.md`
 
 ## Privacy
