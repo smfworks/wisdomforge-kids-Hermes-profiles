@@ -7,18 +7,32 @@ synthetic examples, new skill templates that match a band ritual or safety
 need.
 
 Not a fit: real child data, unverified “safe for kids” claims, adult-band
-creep, cloning adult SMF profiles into examples.
+creep, cloning adult SMF profiles into examples, unconstrained generators,
+power-tool defaults.
+
+## Philosophy guardrails
+
+- Non-attachment is fixed.
+- Least privilege. Conversation first.
+- Parent owns design, credentials, pause, and delete.
+- Synthetic-only data in this repository.
+- `SOUL.md` and skills are guidance, not a sandbox.
 
 ## Skill contributions
 
-Follow the frontmatter already used under `skills/`: `name`, a description
-of 60 characters or fewer that ends with a period, `version`, `author`,
-`license`, `platforms`. One skill per pull request. Run the band cases in
-`EVALS.md` (synthetic only) before you send it.
+Follow existing `skills/` frontmatter: `name`, description ≤ 60 characters
+ending with a period, `version`, `author`, `license`, `platforms`. Required
+body headings: When to use, Don't use, Procedure, Pitfalls, Verification.
+
+One skill per pull request. Add `CHANGELOG.md` if you change behavior.
+Run `EVALS.md` cases (synthetic only). Run
+`python3 scripts/check_repository.py`.
+
+Do not add skills that need web, terminal, or image generation by default.
 
 ## Agent contributors
 
-1. Read README, START-HERE, BANDS, DECISIONS before editing.
+1. Read README, START-HERE, BANDS, DECISIONS, STYLE.md before editing.
 2. Change one concern per PR.
 3. Run `python3 scripts/check_repository.py`.
 4. Say what you verified.

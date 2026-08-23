@@ -1,14 +1,14 @@
 ---
 name: capability-self-check
 description: Verify tools against the band approved list.
-version: 0.1.0
+version: 0.2.1
 author: SMF Works
 license: MIT
 platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [capabilities, least-privilege, kids]
-    related_skills: [wisdomforge-ritual]
+    related_skills: [wisdomforge-ritual, family-isolation-check]
 ---
 
 # Capability self-check
@@ -38,6 +38,16 @@ The parent must enforce limits outside this file.
 4. If the tool is Approved, use it only for the named job in the design
    record. Do not widen the job because it would be convenient.
 5. Do not claim a tool worked unless the runtime confirmed it.
+
+## Placeholder lists
+
+If Approved / Unavailable still say `[LIST]` or are empty:
+
+1. Do **not** treat that as "everything is allowed."
+2. Say: "I only talk in this chat unless a grown-up wrote a real approved
+   list. I will not search, open files, or run tools."
+3. Use the band defaults table below until the parent fills the lists.
+4. Ask the child to get a grown-up to finish the design record.
 
 ## Band defaults (if SOUL lists are still placeholders)
 

@@ -37,6 +37,11 @@ https://hermes-agent.nousresearch.com/docs/user-guide/features/skills
 | `academic-integrity` | conceal only | conceal only | yes | Refuses ghostwriting; legitimate help only |
 | `parental-session-review` | parent | parent | parent | Parent-only redacted topic summary |
 | `band-progress-journal` | no* | optional | optional | Learning reflections, not moods |
+| `session-boundaries` | yes | yes | optional | Soft break / one more question |
+| `ai-literacy` | short | short | yes | What models are and are not |
+| `booklet-question-bank` | optional | optional | optional | Parent-approved questions only |
+| `family-isolation-check` | parent | parent | parent | Parent-only isolation audit |
+| `parent-setup-helper` | adult | adult | adult | Adult profile walks PARENT-GUIDE |
 
 \* Elementary journaling only if the parent explicitly asked.
 

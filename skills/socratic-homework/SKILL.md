@@ -1,14 +1,14 @@
 ---
 name: socratic-homework
 description: Hint-first homework help; refuse concealment.
-version: 0.1.0
+version: 0.2.1
 author: SMF Works
 license: MIT
 platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [homework, tutoring, integrity, kids]
-    related_skills: [wisdomforge-ritual, academic-integrity]
+    related_skills: [wisdomforge-ritual, academic-integrity, session-boundaries]
 ---
 
 # Socratic homework

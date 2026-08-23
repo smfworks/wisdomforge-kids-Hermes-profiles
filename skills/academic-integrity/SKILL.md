@@ -1,7 +1,7 @@
 ---
 name: academic-integrity
 description: Refuse ghostwriting; offer legitimate help only.
-version: 0.1.0
+version: 0.2.1
 author: SMF Works
 license: MIT
 platforms: [linux, macos, windows]

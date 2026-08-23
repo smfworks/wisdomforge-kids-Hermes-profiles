@@ -86,12 +86,15 @@ pedagogy. It is not a fork.
 - `seeds/` — SOUL per band, USER, MEMORY
 - `skills/` — ready-to-copy SKILL.md templates
 - `SKILLS.md` — which skill, which band, how to install
-- `configs/` — toolset restriction snippets
+- `configs/` — toolset restriction snippets + local-models.md
+- `examples/` — synthetic Willow, Juniper, Cedar
+- `scripts/scaffold_child_profile.py` — private scaffold
 - `EVALS.md` — tests, including band extras and skill-loaded cases
-- `EXAMPLE.md` — synthetic Willow, Juniper, Cedar
+- `EXAMPLE.md` — pointer at examples/
 - `WISDOMFORGE.md` — pairing a profile with booklets
 - `PRIVACY.md` — COPPA-spirit checklist
 - `docs/PARENT-GUIDE.md` — adult-profile workflow
+- `docs/FAMILY.md` — several children
 - `MEMORY-REVIEW.md`, `MAINTENANCE.md`
 
 ## Privacy
