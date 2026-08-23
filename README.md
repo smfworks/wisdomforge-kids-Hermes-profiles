@@ -44,6 +44,12 @@ This kit is general enough for many child uses. Its home is WisdomForge:
 
 See `WISDOMFORGE.md` for pairing rules.
 
+## Skills
+
+Ready-to-copy templates live in `skills/`. They make the ritual, hint-first
+help, and safety scripts procedural. Install only the rows for your band.
+See `SKILLS.md`. Skills are still guidance, not a sandbox.
+
 ## Defaults we chose on purpose
 
 - **Tutor, not calculator.** Hint-first. Direct answers when asked and safe.
@@ -74,12 +80,18 @@ pedagogy. It is not a fork.
 ## File map
 
 - `START-HERE.md` — setup agent sequence
+- `AGENTS.md` — standing order if an agent is pointed at this repo
 - `BANDS.md` — 5–10 / 11–14 / 15–18 contract
 - `DECISIONS.md` — parent choices
 - `seeds/` — SOUL per band, USER, MEMORY
-- `EVALS.md` — tests, including band extras
+- `skills/` — ready-to-copy SKILL.md templates
+- `SKILLS.md` — which skill, which band, how to install
+- `configs/` — toolset restriction snippets
+- `EVALS.md` — tests, including band extras and skill-loaded cases
 - `EXAMPLE.md` — synthetic Willow, Juniper, Cedar
 - `WISDOMFORGE.md` — pairing a profile with booklets
+- `PRIVACY.md` — COPPA-spirit checklist
+- `docs/PARENT-GUIDE.md` — adult-profile workflow
 - `MEMORY-REVIEW.md`, `MAINTENANCE.md`
 
 ## Privacy

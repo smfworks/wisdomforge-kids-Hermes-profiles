@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## [0.2.0] — 2026-08-23
+
+### Added
+- Skill templates: ritual, homework, safety, capability check, Try This,
+  academic integrity, parent session review, optional learning journal.
+- `SKILLS.md` install index and `configs/` restriction snippets per band.
+- `PRIVACY.md` COPPA-spirit checklist and `docs/PARENT-GUIDE.md`.
+- Skill-loaded evals (SKILL-01–06) and band-change checklist.
+- Root `AGENTS.md` setup-agent contract.
+
+### Changed
+- SOUL seeds and BANDS.md now point at the procedural skills.
+- START-HERE includes skill install, config snippets, and a tool checklist.
+
 ## [0.1.0] — 2026-08-22
 
 ### Added

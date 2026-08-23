@@ -55,6 +55,9 @@ parent about terminal access unless they insist.
 
 For each added tool record: purpose, provider, data sent, cost, supervision.
 
+Apply the matching snippet from `configs/` unless the parent names an
+exception. Skills are optional; see `SKILLS.md`.
+
 **Defaults:** no spend, no messaging other people, no publishing, no computer
 use, no cron.
 
