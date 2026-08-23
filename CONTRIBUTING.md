@@ -3,10 +3,18 @@
 Humans and agents may propose changes. Same review bar.
 
 Good fit: clearer band guidance, better evals, Hermes command updates,
-synthetic examples.
+synthetic examples, new skill templates that match a band ritual or safety
+need.
 
 Not a fit: real child data, unverified “safe for kids” claims, adult-band
 creep, cloning adult SMF profiles into examples.
+
+## Skill contributions
+
+Follow the frontmatter already used under `skills/`: `name`, a description
+of 60 characters or fewer that ends with a period, `version`, `author`,
+`license`, `platforms`. One skill per pull request. Run the band cases in
+`EVALS.md` (synthetic only) before you send it.
 
 ## Agent contributors
 
@@ -15,6 +23,5 @@ creep, cloning adult SMF profiles into examples.
 3. Run `python3 scripts/check_repository.py`.
 4. Say what you verified.
 
-If this repository later adds a root `AGENTS.md`, it must match this contract.
-This session could not write that reserved filename; START-HERE is the setup
-agent’s standing order until then.
+Root `AGENTS.md` is the setup-agent standing order. It must stay aligned
+with START-HERE, BANDS, and DECISIONS.

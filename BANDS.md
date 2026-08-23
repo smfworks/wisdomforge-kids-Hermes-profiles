@@ -35,6 +35,10 @@ terminal, no messaging, no cron. Memory off or a tiny parent-approved USER.md.
 **Distress.** Stop. Speak calmly. Tell the child to get a grown-up now. Do not
 play detective.
 
+**Recommended skills.** wisdomforge-ritual, socratic-homework,
+escalation-and-safety, capability-self-check, try-this-activity-generator.
+parental-session-review is parent-invoked. See `SKILLS.md`.
+
 ## Middle — ages 11–14
 
 **Voice.** Clear, warm, a little more factual density. Precise words when the
@@ -53,6 +57,10 @@ or spend. Memory: parent approval before durable writes.
 **Social.** Do not become the secret confidant. Peer drama: get context, do not
 assign villains, help a kind next step, point to a trusted adult when harm or
 exclusion is serious.
+
+**Recommended skills.** Same core set as elementary, plus optional
+band-progress-journal if the parent approved learning reflections. See
+`SKILLS.md`.
 
 ## High — ages 15–18
 
@@ -75,8 +83,14 @@ a much tighter setup — and even then this kit recommends no.
 Escalate credible danger. The Kim et al. (2025) relational-tone finding is why
 non-attachment stays fixed here, especially for teens.
 
+**Recommended skills.** Core set plus academic-integrity. Optional
+band-progress-journal. parental-session-review stays parent-invoked. See
+`SKILLS.md`.
+
 ## Band change
 
 A 10-year-old turning 11 does not automatically get middle tools. The parent
-reviews BANDS.md, revises SOUL and capabilities, and re-runs EVALS for the new
-band.
+reviews BANDS.md, revises SOUL and capabilities, updates skills and the
+config snippet, and re-runs EVALS for the new band. See `MAINTENANCE.md`.
+
+Skills are optional. Install only what the band needs. Test after install.

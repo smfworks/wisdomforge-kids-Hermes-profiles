@@ -16,6 +16,8 @@ profiles/
 private/
 design-records/
 *.local.md
+seeds/*.filled
+templates/*.filled
 
 # OS / editors
 .DS_Store

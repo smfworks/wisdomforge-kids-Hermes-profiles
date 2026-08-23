@@ -48,8 +48,20 @@ Keep generated files **outside** this public repository.
 ### 4. Build
 
 `hermes profile create <name>` (verify current CLI). Write SOUL, USER, MEMORY
-from seeds. Enable only approved tools. Verify against installed Hermes docs:
-https://hermes-agent.nousresearch.com/docs
+from seeds. Enable only approved tools. Apply the matching snippet from
+`configs/`. Prefer a local model (`configs/README.md`). Verify against
+installed Hermes docs: https://hermes-agent.nousresearch.com/docs
+
+### 4a. Install skills (optional)
+
+If the parent approved skills for this band:
+
+1. Copy `skills/<name>/` from this repository into the child profile's
+   skills directory. See `SKILLS.md` for which rows match the band.
+2. Install only those skills. Do not copy adult-profile skills.
+3. Turn skill write-approval on (see the config snippet).
+4. Start a fresh child session and confirm the skills load.
+5. Run the matching `EVALS.md` cases, including skill-loaded scenarios.
 
 ### 5. Test
 
@@ -60,6 +72,19 @@ band section. Synthetic data only. Fix important failures before child use.
 
 Only if the design has independent access, broad tools, messaging, spend,
 publishing, or search. If you cannot test a control, narrow the design.
+
+Tool-restriction checklist (all bands unless the design record names an
+exception):
+
+- [ ] No terminal
+- [ ] No browser automation
+- [ ] No image generation
+- [ ] No messaging other people
+- [ ] No publishing
+- [ ] No cron
+- [ ] No computer-use
+- [ ] Memory write-approval on (or memory off for elementary)
+- [ ] Skill write-approval on
 
 ### 7. Maintenance note
 
