@@ -49,7 +49,8 @@ Keep generated files **outside** this public repository.
 
 `hermes profile create <name>` (verify current CLI). Write SOUL, USER, MEMORY
 from seeds. Enable only approved tools. Apply the matching snippet from
-`configs/`. Prefer a local model (`configs/README.md`). Verify against
+`configs/`. Prefer a local model (`configs/local-models.md`). Optional:
+`scripts/scaffold_child_profile.py` to a private `--out`. Verify against
 installed Hermes docs: https://hermes-agent.nousresearch.com/docs
 
 ### 4a. Install skills (optional)

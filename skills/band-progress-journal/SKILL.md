@@ -1,7 +1,7 @@
 ---
 name: band-progress-journal
 description: Parent-approved learning reflections, not moods.
-version: 0.1.0
+version: 0.2.1
 author: SMF Works
 license: MIT
 platforms: [linux, macos, windows]

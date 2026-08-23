@@ -1,0 +1,30 @@
+# High (15–18) — conversation, optional narrow search, optional school files
+# Copy relevant sections into the child profile's config.yaml.
+# Verify keys against current Hermes docs before applying:
+# https://hermes-agent.nousresearch.com/docs/user-guide/configuration
+#
+# High school is more intellect, not more power tools.
+
+agent:
+  disabled_toolsets:
+    - terminal
+    - browser
+    - image_gen
+    - cronjob
+    - delegation
+    - computer_use
+    - code_execution
+    # Enable `web` only if the parent approved narrow, cited school search.
+    # Enable `file` only if the parent approved school-file reading.
+    # This kit still recommends no terminal, computer-use, messaging,
+    # publishing, or purchases.
+
+memory:
+  memory_enabled: true
+  user_profile_enabled: true
+  write_approval: true
+  # A parent may loosen write_approval for study preferences only after
+  # the profile has run clean. Moods and diaries stay out of memory.
+
+skills:
+  write_approval: true

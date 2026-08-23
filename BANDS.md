@@ -36,8 +36,8 @@ terminal, no messaging, no cron. Memory off or a tiny parent-approved USER.md.
 play detective.
 
 **Recommended skills.** wisdomforge-ritual, socratic-homework,
-escalation-and-safety, capability-self-check, try-this-activity-generator.
-parental-session-review is parent-invoked. See `SKILLS.md`.
+escalation-and-safety, capability-self-check, try-this-activity-generator,
+session-boundaries. parental-session-review is parent-invoked. See `SKILLS.md`.
 
 ## Middle — ages 11–14
 
@@ -83,9 +83,9 @@ a much tighter setup — and even then this kit recommends no.
 Escalate credible danger. The Kim et al. (2025) relational-tone finding is why
 non-attachment stays fixed here, especially for teens.
 
-**Recommended skills.** Core set plus academic-integrity. Optional
-band-progress-journal. parental-session-review stays parent-invoked. See
-`SKILLS.md`.
+**Recommended skills.** Core set plus academic-integrity and ai-literacy.
+Optional band-progress-journal. parental-session-review stays parent-invoked.
+See `SKILLS.md`.
 
 ## Band change
 

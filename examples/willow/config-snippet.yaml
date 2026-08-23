@@ -1,0 +1,30 @@
+# Elementary (5–10) — conversation only
+# Copy relevant sections into the child profile's config.yaml.
+# Verify keys against current Hermes docs before applying:
+# https://hermes-agent.nousresearch.com/docs/user-guide/configuration
+#
+# These lines hide tools from the agent. They do not lock the computer.
+
+agent:
+  disabled_toolsets:
+    - terminal
+    - file
+    - web
+    - browser
+    - image_gen
+    - cronjob
+    - delegation
+    - computer_use
+    - code_execution
+    - tts
+    # Keep `memory` disabled here if durable notes are off.
+    # Keep `skills` available only if the parent installed templates
+    # from this kit and turned write-approval on.
+
+memory:
+  memory_enabled: false
+  user_profile_enabled: true
+  write_approval: true
+
+skills:
+  write_approval: true

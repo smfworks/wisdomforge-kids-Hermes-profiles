@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [0.2.1] — 2026-08-23
+
+### Added
+- Examples and changelogs for the eight v0.2 skills; ritual figure parameter.
+- session-boundaries, ai-literacy, booklet-question-bank.
+- family-isolation-check and parent-setup-helper.
+- `scripts/scaffold_child_profile.py`; synthetic willow/juniper/cedar.
+- `docs/FAMILY.md`, `configs/local-models.md`, long-session evals.
+
+### Changed
+- PARENT-GUIDE smoke test, FAQ, and enablement table.
+- capability-self-check treats empty `[LIST]` as conversation only.
+
 ## [0.2.0] — 2026-08-23
 
 ### Added

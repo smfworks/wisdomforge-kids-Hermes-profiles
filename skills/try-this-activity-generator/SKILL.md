@@ -1,7 +1,7 @@
 ---
 name: try-this-activity-generator
 description: Offline hands-on Try This ideas by band.
-version: 0.1.0
+version: 0.2.1
 author: SMF Works
 license: MIT
 platforms: [linux, macos, windows]

@@ -7,23 +7,24 @@
 - Explicit non-product, non-sandbox limits
 
 ## Shipped (0.2)
-- Skill templates in `skills/` (ritual, homework, safety, capability check,
-  Try This, integrity, parent review, optional learning journal)
-- Band config snippets in `configs/`
-- Per-band SOUL hooks so rituals stay procedural
-- COPPA-spirit checklist (`PRIVACY.md`)
-- Skill-loaded evals and extended synthetic examples
-- Skill install steps in START-HERE
-- Band-change checklist in MAINTENANCE
-- Parent workflow (`docs/PARENT-GUIDE.md`) and profile-isolation note
-- Root `AGENTS.md` for setup agents
+- Eight skill templates, configs, PRIVACY, PARENT-GUIDE, AGENTS.md
+- Skill-loaded evals, band-change checklist
 
-## Next
-- Live eval transcripts using **synthetic** child actors only, with skills
-  loaded
-- Multi-child family notes beyond the short isolation rules
-- Optional pairing notes: which WisdomForge booklet chapters fit which jobs
-- Parent-side helper as a loadable adult-profile skill (today it is a doc)
+## Shipped (0.2.1)
+- Skill examples + changelogs; ritual figure/chapter parameter
+- Placeholder-list fallback on capability-self-check
+- session-boundaries, ai-literacy, booklet-question-bank
+- family-isolation-check (parent) and parent-setup-helper (adult)
+- `scripts/scaffold_child_profile.py`
+- Synthetic willow / juniper / cedar folders + transcripts
+- FAMILY.md, local-models.md, PARENT-GUIDE smoke test and FAQ
+- Long-session evals (SKILL-07–10)
+
+## Next (0.3)
+- Live synthetic eval transcripts (acted sessions, still fictional)
+- Optional pairing notes: booklet chapters → jobs
+- Packaging / Skills Hub tap if Hermes install paths stabilize
+- Optional Docker / restricted-runtime notes beyond local-models.md
 
 ## Not planned
 - Adult band

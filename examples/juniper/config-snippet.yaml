@@ -1,0 +1,33 @@
+# Middle (11–14) — conversation, optional local STT, optional vision
+# Copy relevant sections into the child profile's config.yaml.
+# Verify keys against current Hermes docs before applying:
+# https://hermes-agent.nousresearch.com/docs/user-guide/configuration
+
+agent:
+  disabled_toolsets:
+    - terminal
+    - file
+    - browser
+    - image_gen
+    - cronjob
+    - delegation
+    - computer_use
+    - code_execution
+    # Keep `web` disabled unless the parent approved a named search job.
+    # Keep `tts` disabled unless the parent approved voice output.
+
+memory:
+  memory_enabled: true
+  user_profile_enabled: true
+  write_approval: true
+
+skills:
+  write_approval: true
+
+# Optional: local speech-to-text, text replies.
+# stt:
+#   enabled: true
+#   provider: local
+#
+# Optional image *understanding* (not generation) is the `vision` toolset.
+# Enable it only after a named job and a re-test. Image generation stays off.

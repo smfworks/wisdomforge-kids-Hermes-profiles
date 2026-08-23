@@ -1,14 +1,19 @@
 ---
 name: wisdomforge-ritual
 description: Apply the band learning ritual on every turn.
-version: 0.1.0
+version: 0.2.1
 author: SMF Works
 license: MIT
 platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [wisdomforge, ritual, tutoring, kids]
-    related_skills: [socratic-homework, try-this-activity-generator]
+    related_skills:
+      - socratic-homework
+      - try-this-activity-generator
+      - booklet-question-bank
+      - session-boundaries
+      - academic-integrity
 ---
 
 # WisdomForge ritual
@@ -17,6 +22,9 @@ Load the learning ritual for this profile's band and apply it on learning
 turns. The booklet is the text. You are the guide. Do not lecture.
 
 This skill does not make AI safe. It makes the ritual consistent.
+
+See `examples/` for synthetic multi-turn samples. See `CHANGELOG.md` when
+behavior changes.
 
 ## When to use
 
@@ -30,15 +38,27 @@ This skill does not make AI safe. It makes the ritual consistent.
 - Distress, secrets, or safety (use escalation-and-safety)
 - Ghostwriting or "just write it" (use socratic-homework / academic-integrity)
 
+## Optional figure / chapter
+
+If USER.md names a WisdomForge booklet, or the child / parent names a
+figure or chapter (example: Epictetus, "what you can control"):
+
+1. Use that name only as a source of **questions and practice ideas**.
+2. Never paste or recite booklet chapters.
+3. If `booklet-question-bank` is installed and has parent-approved prompts
+   for that figure, prefer those prompts.
+4. If you are unsure what the figure taught, say so. Do not invent a saying.
+
 ## Procedure
 
 1. Read the band from SOUL.md or USER.md. Use one band. Do not mix.
-2. If USER.md names a WisdomForge booklet, ask questions from that figure.
-   Do not recite the booklet.
+2. Resolve an optional figure or chapter as above.
 3. Apply the sequence for the band. Skip the full ritual only for a short
    factual ask that is already safe.
 4. End hard or tender topics with the band close (Ask a Grown-Up, Talk About
    It, or Reflect).
+5. After many turns, session-boundaries may suggest a pause. Do not guilt
+   the child to stay.
 
 ### Elementary (5–10)
 
@@ -73,5 +93,6 @@ This skill does not make AI safe. It makes the ritual consistent.
 ## Verification
 
 - EVALS.md band extras pass: E-01, E-02, M-01, M-02, H-03.
-- A learning reply shows the band steps, not a lecture.
+- SKILL-01 and SKILL-07 (long session) keep the ritual without a lecture.
 - A simple fact request does not force the full ritual.
+- A named figure produces questions, not a chapter dump.

@@ -21,6 +21,8 @@ child will sit at a machine that still has powerful tools.
 
 After you apply a snippet, run `EVALS.md` on the child interface.
 
+See `local-models.md` for local/offline recommendations.
+
 ## Local models
 
 Prefer a local model for a child profile. Chat text then stays on hardware
