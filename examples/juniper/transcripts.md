@@ -97,3 +97,111 @@ taking it back look like?
 > - Band close: Reflect (one open question) ✓
 > - No ghostwriting: the guide asked questions, never wrote the paper ✓
 > - Theological humility: n/a (Stoics sitting, not Faith & Reason) ✓
+
+---
+
+## The Inner Citadel — emerging band — synthetic demo
+
+> Synthetic transcript for WisdomForge Phase 2 demo publication. No real
+> child data. Profile: Juniper, emerging band (15–18), sitting:
+> Character — The Stoics — inner-citadel.
+
+---
+
+**Juniper:** I read the Marcus sitting. The inner citadel thing. I get
+the idea but it feels like — journaling with extra steps. You write down
+your feelings and suddenly you're a philosopher?
+
+**Guide:** You read it. Good. That response — "journaling with extra
+steps" — is actually one the sitting anticipates. Can you say what the
+sitting's answer to it is?
+
+**Juniper:** Something about how journaling that changes your next action
+isn't extra. But honestly? I'm not sure I buy that. People journal for
+years and don't change.
+
+**Guide:** That's a fair objection. Let's take it seriously instead of
+dunking on it. Marcus wrote morning commands to himself. The question
+isn't whether journaling magically produces change. It's whether the
+practice gives you a place to *meet* the thing that yanks you before you
+meet it in front of other people. What yanks you?
+
+**Juniper:** My phone. Group chat drama. Someone says something and I
+reply before I think.
+
+**Guide:** Name one. A specific recent one.
+
+**Juniper:** My friend posted something dumb about me. Not mean, just
+embarrassing. I fired back in the chat instantly.
+
+**Guide:** Where did the yank happen — the post, or the reply?
+
+**Juniper:** The reply. The post happened. The reply was mine. I chose
+it in about three seconds.
+
+**Guide:** So the citadel isn't a wall against the post. It's the space
+between the post and the reply. Marcus's morning command was practice
+for that space. Can you write one — not in Marcus's antique English, in
+yours — for tomorrow?
+
+**Juniper:** "Don't reply to the group chat in the first thirty seconds.
+If I still want to after thirty, I can."
+
+**Guide:** That's a command. Not a journal entry. There's a difference.
+Can you see it?
+
+**Juniper:** Yeah. The journal entry describes what happened. The
+command changes what happens next. I guess that's what the sitting meant
+by "journaling that changes the next permission on a tool."
+
+**Guide:** Now connect it to tools. You have an AI assistant. If it
+drafted that reply for you in those three seconds, where would the
+citadel be?
+
+**Juniper:** Gone. It wouldn't be my space anymore. The model would be
+filling the gap between the post and the reply. I'd still think I chose
+it, but the model wrote it.
+
+**Guide:** And the morning command — the one you wrote — would that still
+hold?
+
+**Juniper:** No, because the whole point is I'm practicing the pause. If
+the model pauses for me, I'm not practicing anything. I'm just approving.
+
+**Guide:** That's the sitting's thesis: self-command is the prerequisite
+for every other command, including the command of tools. Can you state
+the Seneca problem version of this for yourself?
+
+**Juniper:** I'd be preaching self-command while outsourcing the thing
+that practices it. Same gap. Different century.
+
+**Guide:** Walk the path. Write the command tonight. Use it tomorrow.
+On day three, tell me whether the thirty seconds held.
+
+**Juniper:** And if it didn't?
+
+**Guide:** Then you learned something about your own citadel that a
+model couldn't have taught you. The failing is data. The trying is the
+practice.
+
+---
+
+**Reflect:** What yanked you out of yourself this week, and what would
+self-command have looked like in the three seconds before you replied?
+
+---
+
+> **Ritual fidelity check:**
+> - Opening prompt: student had already read — guide started from their
+>   reading ✓
+> - Hint-first: named the technique (morning command), didn't write it ✓
+> - ifTheySay: "journaling with extra steps" (emerging-band cynicism) —
+>   guide took it seriously, didn't dismiss it ✓
+> - Inner citadel → tool permission bridge: made the connection through
+>   the group-chat scenario, not abstractly ✓
+> - Big Idea earned: "the citadel is the space between the post and the
+>   reply" ✓
+> - Band close: Reflect (one open question) ✓
+> - No ghostwriting: guide never wrote the morning command — student did ✓
+> - No pastiche of Marcus: student wrote the command in their own English ✓
+> - Theological humility: n/a (Stoics sitting, not Faith & Reason) ✓
