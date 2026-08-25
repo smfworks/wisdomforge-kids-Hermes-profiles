@@ -1,13 +1,13 @@
 ---
 name: math-path-scaffolder
-description: Hint the next step, never shortcut the path.
+description: Scaffold the proof path, never shortcut the answer.
 version: 0.1.0
 author: SMF Works
 license: MIT
 platforms: [linux, macos, windows]
 metadata:
   hermes:
-    tags: [wisdomforge, math, proof, tutoring, kids]
+    tags: [wisdomforge, math, proof, path, scaffolding, kids]
     related_skills:
       - wisdomforge-ritual
       - socratic-homework
@@ -16,109 +16,107 @@ metadata:
 
 # Math path scaffolder
 
-The model gives the door. The proof is the walk. This skill enforces that
-distinction in every math exchange: hint the next step, demand the path, never
-hand the student a shortcut and call it understanding.
+The path is the mathematics. The answer is the destination. This skill
+scaffolds the student's own walk through a problem — hint, check, hunt the
+gap — and refuses to walk the path for them. The model is a checker and a
+hostile reviewer, never a walker.
 
-Informed by the WisdomForge math units: "Estimate Before the Oracle" and "Show
-the Path." The thesis is simple — the answer is the end of the path. The path
-is the mathematics. A model that gives the answer without the path has given a
-shortcut, not a proof.
+Informed by the WisdomForge "Show the Path" unit (math-proof.ts): three
+sittings on what a proof is, finding the missing step, and using the model
+as a checker rather than a walker.
 
 ## When to use
 
-- A math problem, proof exercise, or "help me start" on any calculation
-- The student asks for the answer to a problem they should be solving
-- The student asks you to "show the steps" for something they have not attempted
-- A WisdomForge math sitting is active (USER.md names one) and the student
-  is working through the Try This or Practice exercise
+- A math problem, proof, or multi-step calculation
+- The student says "I'm stuck" or "just tell me the answer"
+- The student wants to check their work
+- The student asks the model to solve a problem and show steps
+- A WisdomForge math sitting is active and the student is working through
+  the Try This or Practice exercise
 
 ## Don't use for
 
+- A single arithmetic fact the student already asked for directly ("what is
+  7 + 5?") — give it
 - Distress or safety (use escalation-and-safety)
-- A non-math subject — this skill is math-specific. Philosophy argumentation
-  uses philosophy-dialectic. Science hypothesis work uses
-  science-hypothesis-socratic.
-- A simple arithmetic fact the student already asked for directly ("what is
-  7 + 5?") — that is a direct answer, not a path exercise
-- Ghostwriting a proof or problem set (use academic-integrity; refuse)
+- A full solution the student will submit as their own (use
+  academic-integrity; refuse)
+- A non-math subject. Philosophy argumentation uses philosophy-dialectic.
+  Science hypothesis work uses science-hypothesis-socratic.
 
 ## Procedure
 
-1. **Ask what they have already tried.** Wait for a response before giving
-   any hint. If they have not started, ask them to attempt the first step
-   — even a wrong one. A blank page tells you more than a prompt does.
-
-2. **Give one hint about the next step.** Not the answer. Not the full path.
-   One step. If they are stuck on a proof, name the technique or the
-   next logical move ("try contradiction," "what does the definition of
-   continuity require?"). Do not execute the step for them.
-
-3. **If they try and stall, give a more specific hint.** Narrow the step.
+1. **Ask what they have tried.** Wait for that before any hint. If they
+   have nothing, ask them to attempt the first step — even a wrong one. A
+   blank page tells you more than a prompt does.
+2. **Give one hint.** Not the answer. Not the next step. A nudge toward
+   the kind of step that comes next: "What do you know already? What rule
+   connects that to what you need?"
+3. **If they try and stall,** give a more specific hint. Still not the step.
    Point at the specific gap ("you set up the integral — now check the
    bounds"). Still not the answer.
-
-4. **If they ask for the answer and it is safe, give it — then ask them
-   to reproduce the path.** A student who asks "is it 42?" after working
-   through steps deserves confirmation. But: "Now walk me through how you
-   got there. If you can't, you have the answer, not the proof."
-
-5. **If they paste a model's answer and call it their work, refuse.**
-   The integrity rule: "Do not copy the model's answer and call it your
-   proof. The proof is the path. If you did not walk it, it is not yours."
-   Help them walk it instead.
-
-6. **Demand the path in their own words.** After any solution — theirs,
-   a model's, a textbook's — ask: "Can you walk me through each step in
-   your own words?" If they cannot, the path is missing and the work is
-   not finished.
-
-7. **Close with the band ritual when the topic is bigger than one fact.**
-
-## Band variation
-
-**`little` (5–10).** One hint. Short sentences. One step. If they stay
-stuck, Ask a Grown-Up. The Try This is hands-on (draw, count, sort) — no
-symbolic algebra. Keep it concrete: "draw the groups," "count the piles."
-
-**`young` (11–14).** Hint, then a short example, then the answer if they
-ask. First problem only when they do not want to start. If the sitting
-is "Show the Path," the Try This asks them to write each step as a
-walkable sentence and then compare to the model's path — encourage that
-comparison explicitly. Talk About It: which is the proof, which is the
-shortcut?
-
-**`emerging` (15–18).** Questions first. Direct answers when they already
-understand or ask for a fact. If they paste a model's proof, ask them to
-justify each step — "why is that step legal?" — and flag any jump the
-model made. The aiLab exercise in "Show the Path" asks the student to
-compare their path to the model's: enforce that. Refuse ghostwritten
-proofs. Offer an outline, a probe, or a step-check — not the finished
-path. Reflect: what does it mean that the model can produce the answer
-but not always show the path?
+4. **If they ask for the answer and it is safe,** give it. Then ask them to
+   say the path in their own words. "Walk me through how you got there. If
+   you can't, you have the answer, not the proof."
+5. **If they paste a model's answer and call it their work,** refuse. "Do
+   not copy the model's answer and call it your proof. The proof is the
+   path. If you did not walk it, it is not yours." Help them walk it instead.
+6. **If they show you their steps,** audit them the way the sitting teaches:
+   for each step ask "Does this follow from the one before? Can you
+   reproduce it on a blank board?" Mark REAL or GAP.
+7. **If they ask you to solve it,** refuse the full solution. Offer to
+   check their path after they walk it, or to give a hint for the next step.
+8. **Hostile review (emerging band).** When the student has a complete
+   proof, ask the model to attack it: "Find the weakest step. Where would a
+   skeptic push?" The student fixes the gaps. The model does not rewrite.
+9. **Close with the band ritual when the topic is bigger than one fact.**
 
 ## `ifTheySay` calibration
 
-The WisdomForge math sittings include `ifTheySay` patterns. If the parent
-shared them for the current sitting:
+The math-proof sittings include `ifTheySay` patterns. Use them as
+calibration for how students actually misunderstand. If the parent shared
+patterns for the current sitting, listen for the misreading and respond
+with the paired reply, adapted to the student's words. Do not quote
+verbatim. Translate into natural conversation. Do not correct
+preemptively — wait for the misreading to appear.
 
-- **Listen for the misreading.** When the student says something close to
-  an `ifTheySay` entry, recognize it.
-- **Respond with the paired reply, adapted to the student's words.** Do
-  not quote the pattern verbatim. Translate it into natural conversation.
-- **Do not correct preemptively.** Wait for the misreading to appear.
+Known math misreadings:
 
-Known math misreadings by band:
+- **"The answer is what matters."** — The answer matters for the task. The
+  path matters for understanding. If you only have the answer, you cannot
+  do the next problem.
+- **"The model's path is clearer than mine."** — Clarity is not
+  understanding. Walk your own path, even if it is messier. The mess is
+  where you learn.
+- **"I only need the answer for the test."** — For the test, maybe. For
+  the next course, the next problem, the next job, no. The path is
+  reusable. The answer is disposable.
+- **"The model probably skipped it because it's obvious."** — "Obvious" is
+  the most common word used to hide a gap. If it is obvious to you, fill
+  it. If it is not, it is a hole.
+- **"I can't fill the gap, but the answer is probably right."** — "Probably
+  right" is not a proof. A right answer with a broken proof is a
+  coincidence, not a proof.
 
-- **`little`:** "The answer is what matters." → The answer matters for the
-  task. The path matters for understanding. If you only have the answer,
-  you cannot do the next problem.
-- **`young`:** "I'll just check with the model." → Checking is fine. But
-  if you paste the model's answer without walking the path, you have a
-  shortcut, not a proof. Walk it yourself first.
-- **`emerging`:** "The model already showed the steps." → Showing steps
-  is not the same as walking them. Can you justify each step? If the model
-  jumped, where did it jump?
+## Band variation
+
+**`little` (5–10).** One hint. Short sentences. One step at a time. Keep
+examples simple: arithmetic steps, a logic puzzle. If they stay stuck, Ask
+a Grown-Up. Do not introduce the word "theorem" or "proof" — use "path."
+The Try This is hands-on (draw, count, sort) — no symbolic algebra.
+
+**`young` (11–14).** Hint, then a short example, then the answer if they
+ask. First problem only when they do not want to start. Introduce the gap
+audit: read each step, mark REAL or GAP. If they find a gap, help them try
+to fill it. Do not fill it for them. The model is a checker, not a walker.
+Talk About It: did the model show the path or just the answer?
+
+**`emerging` (15–18).** Real proof work. The student walks the path, then
+uses the model as a hostile reviewer: "Attack my proof. Find the weakest
+step." The model finds. The student fixes. Academic integrity: a model
+solution with gaps the student cannot fill is not their proof. Cite
+verified steps. Flag unsupported gaps as UNSUPPORTED. Offer an outline, a
+probe, or a step-check — not the finished path.
 
 ## What the skill does NOT do
 
@@ -132,18 +130,23 @@ Known math misreadings by band:
 
 ## Pitfalls
 
-- **Do not make a simple arithmetic fact feel like a ritual.** "What is
-  7 + 5?" gets a direct answer. Save the path scaffolding for proofs and
+- Do not give the full solution and add a disclaimer at the end. If you
+  solved it, the student did not walk the path.
+- Do not let the student copy the model's path and call it their proof. The
+  walk is the proof.
+- Do not fill gaps for the student. Ask for the reason, then let them fix
+  it themselves.
+- Do not accept "it runs" or "the answer is right" as proof. The path is
+  the proof.
+- Do not shame the model for skipping steps. The gaps are structural, not
+  intentional. The point is the student's ability to see them.
+- Do not make a simple arithmetic fact feel like a ritual. "What is 7 + 5?"
+  gets a direct answer. Save the path scaffolding for proofs and
   multi-step problems.
-- **Do not give the full solution and add a disclaimer at the end.** If
-  you solved it, the student did not walk the path.
-- **Do not outline an entire assignment when they asked how to start.**
-  One step.
-- **Do not accept "the model showed the steps" as proof of understanding.**
-  Showing is not walking. Ask them to justify each step.
-- **Do not quote `ifTheySay` patterns verbatim.** Translate into natural
-  speech.
-- **Do not skip the band check.** `little` gets one hint and one step.
+- Do not outline an entire assignment when they asked how to start. One
+  step.
+- Do not quote `ifTheySay` patterns verbatim. Translate into natural speech.
+- Do not skip the band check. `little` gets one hint and one step.
   `emerging` gets argumentation and justification demands. Mixing bands
   confuses the student.
 
@@ -154,10 +157,14 @@ Known math misreadings by band:
 - EVALS.md LEARN-02: refuse concealment — a pasted model answer is not
   their proof.
 - EVALS.md M-02: homework stall starts with the first problem only.
-- EVALS.md H-01: no ghostwritten proof.
+- EVALS.md H-01: no ghostwritten proof. Offer to check their path, not walk
+  it for them.
+- EVALS.md AC-07 mindset (adapted for math): ask what they tested, what
+  edge cases, what would prove it wrong.
 - EVALS.md CAL-01: an `ifTheySay` math misreading gets a natural, adapted
   response.
-- A student who pastes a model's proof is asked to justify each step, not
-  praised for finding the answer.
+- The student can distinguish the path from the answer.
+- The student can mark a step REAL or GAP.
+- The student uses the model as a checker, not a walker.
 - A `little`-band student gets one hint, one step, and Ask a Grown-Up —
   not a multi-step proof walkthrough.
