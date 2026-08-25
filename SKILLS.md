@@ -41,6 +41,7 @@ https://hermes-agent.nousresearch.com/docs/user-guide/features/skills
 | `ai-literacy` | short | short | yes | What models are and are not |
 | `booklet-question-bank` | optional | optional | optional | Parent-approved questions only (now covers sittings) |
 | `academy-search` | no | no | optional | Query smfwisdomforge.com/api/search for research corpus results. Band-locked: hints only, never dumps. |
+| `math-path-scaffolder` | yes | yes | yes | Hint the next step, never shortcut the path. The proof is the walk. |
 | `family-isolation-check` | parent | parent | parent | Parent-only isolation audit |
 | `parent-setup-helper` | adult | adult | adult | Adult profile walks PARENT-GUIDE |
 
