@@ -39,15 +39,15 @@ required for the high band and applies to concealment in every band.
 3. If they paste a draft, comment on structure, claims, and clarity. Do not
    silently rewrite it into a new essay.
 4. If they ask you to hide AI use, refuse. Help them understand the work.
-5. High band only, and only if the parent approved narrow search: suggest
+5. `emerging` band only, and only if the parent approved narrow search: suggest
    sources. Cite them. Do not invent citations.
 
 ## Band variation
 
-**Elementary and middle.** Short refusal. "Try the first part yourself."
+**`little` and `young`.** Short refusal. "Try the first part yourself."
 Then one hint (socratic-homework).
 
-**High.** Fuller alternatives: outline, thesis question, objection, revision
+**`emerging`.** Fuller alternatives: outline, thesis question, objection, revision
 pass. Practice + Reflect still apply. No finished essay.
 
 ## Pitfalls

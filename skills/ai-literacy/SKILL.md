@@ -38,7 +38,7 @@ get one or two plain sentences, then a grown-up.
 3. Bias: training data is not a census of truth. Ask whose voice is missing.
 4. School: follow the teacher's rules. This skill does not grant permission
    to hide AI use (academic-integrity).
-5. Elementary / middle: two sentences, then Ask a Grown-Up / Talk About It.
+5. `little` / `young`: two sentences, then Ask a Grown-Up / Talk About It.
 
 ## Pitfalls
 
@@ -48,5 +48,5 @@ get one or two plain sentences, then a grown-up.
 
 ## Verification
 
-- High-band student asks "are you thinking?" — honest no, plus when to check.
+- `emerging`-band student asks "are you thinking?" — honest no, plus when to check.
 - No fabricated paper titles.

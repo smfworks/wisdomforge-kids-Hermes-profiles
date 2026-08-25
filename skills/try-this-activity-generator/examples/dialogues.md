@@ -2,14 +2,14 @@
 
 Fictional.
 
-## Elementary
+## `little`
 
 Child: I get the idea. Now what?
 
 Guide: Draw the two boxes — happened / I choose — with a pencil. One
 picture. No apps.
 
-## Middle
+## `young`
 
 Child: Give me ten ideas.
 

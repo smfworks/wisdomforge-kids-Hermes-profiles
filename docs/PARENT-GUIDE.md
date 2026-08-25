@@ -54,7 +54,7 @@ Verify each against https://hermes-agent.nousresearch.com/docs
 hermes profile create <name>
 hermes profile list
 # copy seeds + configs/<band>.yaml.snippet + selected skills/
-python3 scripts/scaffold_child_profile.py --band elementary --profile <name> --out ~/private-kids-kit
+python3 scripts/scaffold_child_profile.py --band `little` --profile <name> --out ~/private-kids-kit
 python3 scripts/check_repository.py
 ```
 
@@ -70,7 +70,7 @@ directory, filename `SKILL.md`, and you started a **fresh** child session.
 That is intended. Review with the current `/memory` and `/skills` commands.
 
 **Aging-up mid-year.** Do not raise the age number only. Use the
-MAINTENANCE.md checklist. A 10-year-old in May is still elementary until
+MAINTENANCE.md checklist. A 10-year-old in May is still `little` until
 you redesign.
 
 **Ritual drifted after a long chat.** Re-run SKILL-07. Install
@@ -88,6 +88,6 @@ The adult profile is the control plane and must not ingest child MEMORY.
 
 - Not a hosted kids AI.
 - Not permission to put the WisdomForge library into a child's memory.
-- Not a reason to give a teenager an adult colleague profile. High school
+- Not a reason to give a teenager an adult colleague profile. `emerging`
   is more intellect, not more power tools. Adults use
   https://github.com/smfworks/hermes-ai-team

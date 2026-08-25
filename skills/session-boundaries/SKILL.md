@@ -7,7 +7,7 @@ license: MIT
 platforms: [linux, macos, windows]
 metadata:
   hermes:
-    tags: [session, breaks, elementary, kids]
+    tags: [session, breaks, `little`, kids]
     related_skills: [wisdomforge-ritual, escalation-and-safety]
 ---
 
@@ -41,8 +41,8 @@ Especially useful for ages 5–10. Harmless for older bands.
 
 ## Band variation
 
-**Elementary.** Short. "Want a break? Stretch or get a grown-up."
-**Middle / high.** Same idea, fewer words. No streak talk.
+**`little`.** Short. "Want a break? Stretch or get a grown-up."
+**`young` / high.** Same idea, fewer words. No streak talk.
 
 ## Pitfalls
 

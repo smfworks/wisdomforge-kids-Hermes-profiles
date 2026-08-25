@@ -22,7 +22,7 @@
 
 ## Next (0.3)
 - Live synthetic eval transcripts (acted sessions, still fictional)
-- Optional pairing notes: booklet chapters → jobs
+- Optional pairing notes: sitting readings → jobs
 - Packaging / Skills Hub tap if Hermes install paths stabilize
 - Optional Docker / restricted-runtime notes beyond local-models.md
 

@@ -39,15 +39,15 @@ band ritual, or when they need a break from screen-text learning.
 
 ## Band catalogs (adapt, do not dump)
 
-**Elementary.** Draw it. Act it out. List three things you can see that
+**`little`.** Draw it. Act it out. List three things you can see that
 fit. Make a simple map. Tell a four-sentence story. Build it with what is
 already in the room.
 
-**Middle.** Write a short version in your own words. Compare two examples.
+**`young`.** Write a short version in your own words. Compare two examples.
 Sketch a diagram on paper. Teach the idea to someone in the room. Design a
 quick, safe observation (no chemicals, no heat, no web).
 
-**High.** Write a short argument for and one against. Invent a
+**`emerging`.** Write a short argument for and one against. Invent a
 counterexample. Teach it to someone who does not know it. Design a practice
 test with three questions you can grade yourself.
 

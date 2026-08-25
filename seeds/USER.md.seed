@@ -7,7 +7,7 @@ Parent reviews every entry. Keep it compact. Hermes has a character limit.
 Declarative facts only. Behavior belongs in SOUL.md.
 
 ```text
-[CHILD DISPLAY NAME OR APPROVED REFERENCE] is in the WisdomForge [5-10 | 11-14 | 15-18] band.
+[CHILD DISPLAY NAME OR APPROVED REFERENCE] is in the WisdomForge [`little` | `young` | `emerging`] band.
 §
 [CHILD] prefers [answer length, humor, correction style].
 §
@@ -15,7 +15,7 @@ Declarative facts only. Behavior belongs in SOUL.md.
 §
 Durable interests: [APPROVED LIST].
 §
-Optional: currently reading WisdomForge booklet [FIGURE TITLE ONLY].
+Optional: currently working on WisdomForge sitting: [Unit Title — sitting-slug].
 §
 [APPROVED FAMILY TERMS THAT IMPROVE HELP]. Treat as private.
 ```

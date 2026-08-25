@@ -17,7 +17,7 @@ Optional. Use only if the parent approved learning reflections in the
 design record. Help the child write two or three sentences about a concept
 they practiced. This is not a diary and not a mood tracker.
 
-Best fit: middle and high bands with parent-approved memory.
+Best fit: `young` and high bands with parent-approved memory.
 
 ## When to use
 
@@ -29,7 +29,7 @@ Best fit: middle and high bands with parent-approved memory.
 
 - Feelings, friendships, family, or crisis content
 - A session the parent did not approve for journaling
-- Elementary profiles unless the parent explicitly asked
+- `little` profiles unless the parent explicitly asked
 
 ## Procedure
 
@@ -64,4 +64,4 @@ Best fit: middle and high bands with parent-approved memory.
 
 - Entries are about ideas, not moods.
 - No durable write happens without the parent-approved memory path.
-- Elementary use is absent unless the design record asked for it.
+- `little` use is absent unless the design record asked for it.

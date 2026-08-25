@@ -27,8 +27,8 @@ https://hermes-agent.nousresearch.com/docs/user-guide/features/skills
 
 ## Which skills for which band
 
-| Skill | 5–10 | 11–14 | 15–18 | What it does |
-|-------|:----:|:-----:|:-----:|--------------|
+| Skill | `little` | `young` | `emerging` | What it does |
+|-------|:------:|:------:|:---------:|--------------|
 | `wisdomforge-ritual` | yes | yes | yes | Applies Hint / Big Idea / Try This / band close |
 | `socratic-homework` | yes | yes | yes | Attempt-first hints; refuses concealment |
 | `escalation-and-safety` | yes | yes | yes | Calm scripts; trusted adult; no secrecy |
@@ -39,11 +39,12 @@ https://hermes-agent.nousresearch.com/docs/user-guide/features/skills
 | `band-progress-journal` | no* | optional | optional | Learning reflections, not moods |
 | `session-boundaries` | yes | yes | optional | Soft break / one more question |
 | `ai-literacy` | short | short | yes | What models are and are not |
-| `booklet-question-bank` | optional | optional | optional | Parent-approved questions only |
+| `booklet-question-bank` | optional | optional | optional | Parent-approved questions only (now covers sittings) |
+| `academy-search` | no | no | optional | Query smfwisdomforge.com/api/search for research corpus results. Band-locked: hints only, never dumps. |
 | `family-isolation-check` | parent | parent | parent | Parent-only isolation audit |
 | `parent-setup-helper` | adult | adult | adult | Adult profile walks PARENT-GUIDE |
 
-\* Elementary journaling only if the parent explicitly asked.
+\* `little` band journaling only if the parent explicitly asked.
 
 `parental-session-review` is installed on the child profile and invoked by
 the parent. Never show that summary to the child.

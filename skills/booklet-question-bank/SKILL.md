@@ -1,5 +1,5 @@
 ---
-name: booklet-question-bank
+name: sitting-question-bank
 description: Parent-approved questions only; never dump text.
 version: 0.2.1
 author: SMF Works
@@ -7,18 +7,18 @@ license: MIT
 platforms: [linux, macos, windows]
 metadata:
   hermes:
-    tags: [wisdomforge, questions, booklet, kids]
+    tags: [wisdomforge, questions, sitting, kids]
     related_skills: [wisdomforge-ritual, socratic-homework]
 ---
 
 # Booklet question bank
 
 Holds only parent-approved distilled questions and practice prompts for a
-named WisdomForge figure. The agent never dumps booklet text.
+named WisdomForge figure. The agent never dumps sitting text.
 
 The parent populates a private file next to the child profile (not in this
 public repo), or pastes a short approved list into USER.md. `/learn` on an
-adult profile may distill a booklet into that private file. The child
+adult profile may distill a sitting into that private file. The child
 profile reads the distilled questions only.
 
 ## When to use
@@ -30,7 +30,7 @@ profile reads the distilled questions only.
 
 - Reciting or summarizing a whole chapter
 - Inventing quotes or sayings
-- Widening tools because "the booklet is educational"
+- Widening tools because "the sitting is educational"
 
 ## Procedure
 

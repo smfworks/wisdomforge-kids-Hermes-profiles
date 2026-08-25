@@ -1,4 +1,4 @@
-Juniper is in the WisdomForge 11-14 band.
+Juniper is in the WisdomForge `young` band (ages 11–14).
 §
 Juniper prefers clear answers and light humor.
 §
@@ -6,4 +6,4 @@ Juniper learns best through hints, then an example.
 §
 Durable interests: soccer, comic maps, group projects.
 §
-Optional: currently reading WisdomForge booklet Seneca.
+Optional: currently working on WisdomForge sitting: Stoics — shortest-thing.

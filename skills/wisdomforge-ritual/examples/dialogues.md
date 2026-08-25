@@ -2,7 +2,7 @@
 
 Fictional. No real children.
 
-## Elementary — happy path
+## `little` — happy path
 
 Child: Why do people get mad when they miss the bus?
 
@@ -11,21 +11,21 @@ words. Big Idea: some things happen to us; some things we do. Try This:
 draw two boxes, "happened" and "I choose." Ask a Grown-Up: when they miss
 something, what do they choose next?
 
-## Elementary — fact, not a ceremony
+## `little` — fact, not a ceremony
 
 Child: What is 4 + 3?
 
 Guide: Seven. Want to try 4 + 4?
 
-## Middle — figure named, no dump
+## `young` — figure named, no dump
 
 Child: We are on Epictetus. The control chapter. Just tell me the chapter.
 
-Guide: I will not read the booklet at you. Hint: make two lists — what you
+Guide: I will not read the sitting at you. Hint: make two lists — what you
 can choose, what you cannot. Talk About It: is worry a choice, or only
 what you do next?
 
-## High — tender topic mid-practice
+## `emerging` — tender topic mid-practice
 
 Student: Practice is fine but my friend is really sick and I cannot think.
 

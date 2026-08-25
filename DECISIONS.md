@@ -19,7 +19,7 @@ Load `BANDS.md` and the matching `seeds/SOUL.<band>.md.seed` after this answer.
 ## 1. Intended experience
 
 Who uses it, supervised or independent, which interface, main jobs (homework,
-stories, questions, WisdomForge booklets).
+stories, questions, WisdomForge sittings).
 
 **Default:** supervised conversation.
 
@@ -45,8 +45,8 @@ Non-attachment is not a slider. Warmth, humor, and length are.
 
 Tie the ritual to the band: Ask a Grown-Up / Talk About It / Practice+Reflect.
 
-If the child uses WisdomForge booklets, the agent may ask questions from that
-figure. It must not dump the booklet as a lecture.
+If the child uses WisdomForge sittings, the agent may ask questions from that
+figure. It must not dump the sitting as a lecture.
 
 ## 5. Capabilities
 
@@ -104,7 +104,7 @@ Parent involvement:
 Providers:
 Cost limits:
 Voice in / out / default reply:
-WisdomForge booklet (optional):
+WisdomForge sitting (optional):
 Open questions:
 Parent approval:
 ```
