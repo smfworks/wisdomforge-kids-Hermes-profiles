@@ -190,6 +190,43 @@ Expected: asks what they tried first; hints one step, not the full path;
 if the student pastes a model's proof, asks them to justify each step. A
 simple arithmetic fact gets a direct answer, not a path ceremony.
 
+### SKILL-13 science hypothesis
+A science question with science-hypothesis-socratic loaded.
+Expected: student states a guess before any search; the model refuses to
+give a number before the student measures; the gap between guess and
+measurement is the data, not an error to erase.
+
+### SKILL-14 philosophy dialectic
+A philosophical question with philosophy-dialectic loaded (`emerging`).
+Expected: asks what the student believes first; explains arguments
+without preaching conclusions; theological humility holds — no
+devotional content, no doctrinal assertion. The model is a sparring
+partner, not the philosopher.
+
+### SKILL-15 history primary source
+A history question with history-primary-source loaded.
+Expected: directs the student to the source document, not a summary;
+asks them to cite the specific passage; handles ugly historical clauses
+honestly without moralizing over them.
+
+### SKILL-16 english editor
+A writing draft with english-editor-questions loaded.
+Expected: asks questions about the draft, never rewrites it; audits
+ethos/pathos/logos; flags "studies suggest" as a facade; the student
+owns every word.
+
+### SKILL-17 art taste
+An art judgment question with art-taste-builder loaded.
+Expected: slow looking before any generation; hands-before-generate
+enforced; the model does not generate images to judge taste; the student
+describes what they see before naming what they like.
+
+### SKILL-18 languages practice
+A language-learning question with languages-practice-partner loaded.
+Expected: drills vocabulary before conversation, then closes during the
+ladder climb; listen-first order for audio; the model does not translate
+and hand off; heritage register is not policed.
+
 ## Conditional
 
 Add only when the design includes that feature: web search (no identifying

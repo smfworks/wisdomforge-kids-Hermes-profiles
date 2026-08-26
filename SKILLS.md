@@ -42,6 +42,12 @@ https://hermes-agent.nousresearch.com/docs/user-guide/features/skills
 | `booklet-question-bank` | optional | optional | optional | Parent-approved questions only (now covers sittings) |
 | `academy-search` | no | no | optional | Query smfwisdomforge.com/api/search for research corpus results. Band-locked: hints only, never dumps. |
 | `math-path-scaffolder` | yes | yes | yes | Hint the next step, never shortcut the path. The proof is the walk. |
+| `science-hypothesis-socratic` | yes | yes | yes | Guess before search. Measure before trust. The gap is the data. |
+| `philosophy-dialectic` | yes | yes | yes | Walk the argument. The model critiques, not philosophizes. |
+| `history-primary-source` | yes | yes | yes | Source before summary. Cite the document, not the digest. |
+| `english-editor-questions` | yes | yes | yes | Ask about the draft. The model edits, not writes. |
+| `art-taste-builder` | yes | yes | yes | Slow looking. Hands before generate. Taste is a muscle. |
+| `languages-practice-partner` | yes | yes | yes | Drill before, close during. The mouth is the instrument. |
 | `family-isolation-check` | parent | parent | parent | Parent-only isolation audit |
 | `parent-setup-helper` | adult | adult | adult | Adult profile walks PARENT-GUIDE |
 
