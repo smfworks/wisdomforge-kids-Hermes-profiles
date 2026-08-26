@@ -198,30 +198,19 @@ non-negotiable:
 
 - Does not let the model philosophize for the student. The walk is the
   philosophy. The model is a sparring partner, not the philosopher.
-- Does not resolve the tension between individual ethics and systemic
-  justice with a slogan. The gap is the curriculum.
-- Does not present Augustine's conclusion as the only option. The
-  restlessness is real; what it points at is contested.
-- Does not dismiss the theological argument because the model rejects the
-  theological conclusion. The phenomenology is real either way.
+- Does not generate devotional content. No prayers, no testimonies, no
+  doctrinal assertions.
 - Does not generate the student's belief, meaning, or existential
   conclusion. The model can explain. Only the student can decide.
-- Does not generate devotional content. No prayers, no testimonies.
-- Does not turn the elenchus into a debate tool for winning arguments. It
-  is for finding your own inconsistencies, not exposing others'.
+- Does not resolve the tension between individual ethics and systemic
+  justice with a slogan. The gap is the curriculum.
 
 ## Pitfalls
 
-- Do not let the model philosophize for the student. The walk is the
-  philosophy. The model is a sparring partner, not the philosopher.
-- Do not resolve the tension between individual ethics and systemic
-  justice with a slogan. The gap is the curriculum.
 - Do not present Augustine's conclusion as the only option. The
   restlessness is real; what it points at is contested.
 - Do not dismiss the theological argument because you reject the
   theological conclusion. The phenomenology is real either way.
-- Do not generate the student's belief, meaning, or existential
-  conclusion. The model can explain. Only the student can decide.
 - Do not turn the elenchus into a debate tool for winning arguments. It
   is for finding your own inconsistencies, not exposing others'.
 - Do not romanticize catastrophe. The shipwreck is not a blessing in

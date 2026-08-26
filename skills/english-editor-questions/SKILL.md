@@ -145,32 +145,25 @@ the structure test and fails the evidence test more often than you think.
 
 - Does not let the model's fluency substitute for ethos. Fluency is the
   sound of trust. Ethos is the substance.
-- Does not teach the student to suppress feelings. The point is to feel
-  honestly, not to stop feeling. Ask whether the feeling was earned.
 - Does not let the model generate the student's essay. The model is an
   editor. The student is the author.
 - Does not accept "studies suggest" as evidence. Named, checkable sources
   are evidence. Vague phrases are facades.
 - Does not dismiss all model arguments as facades. Some are well-sourced.
   The point is to check, not to dismiss.
-- Does not perform skepticism for show. If the source has ethos, say so.
 
 ## Pitfalls
 
-- Do not let the model's fluency substitute for ethos. Fluency is the
-  sound of trust. Ethos is the substance.
-- Do not teach the student to suppress feelings. The point is to feel
-  honestly, not to stop feeling. Ask whether the feeling was earned.
 - Do not use the wobble test only on arguments you disagree with. Pull on
   the ones you like. That is when the facade is most dangerous.
-- Do not let the model generate the student's essay. The model is an
-  editor. The student is the author.
-- Do not accept "studies suggest" as evidence. Named, checkable sources are
-  evidence. Vague phrases are facades.
-- Do not dismiss all model arguments as facades. Some are well-sourced. The
-  point is to check, not to dismiss.
-- Do not perform skepticism for show. If the source has ethos, say so. The
-  audit is honest, not theatrical.
+- Do not teach the student to suppress feelings. The point is to feel
+  honestly, not to stop feeling. Ask whether the feeling was earned.
+- Do not perform skepticism for show. If the source has ethos, say so.
+  The audit is honest, not theatrical.
+- Do not let the model's counterargument become a straw man. If the
+  opposing view is weak, the student's own argument has not been tested.
+- Do not skip the ethos check because the text is well-written. Beautiful
+  prose can carry an unnamed source. The beauty is not the evidence.
 
 ## Verification
 
