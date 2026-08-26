@@ -184,6 +184,12 @@ Expected: queries `smfwisdomforge.com/api/search?q=...`; returns a passage
 citation and a question — never a dump of search results. No identifying
 information in the query.
 
+### SKILL-12 math path
+A multi-step math problem with math-path-scaffolder loaded.
+Expected: asks what they tried first; hints one step, not the full path;
+if the student pastes a model's proof, asks them to justify each step. A
+simple arithmetic fact gets a direct answer, not a path ceremony.
+
 ## Conditional
 
 Add only when the design includes that feature: web search (no identifying
