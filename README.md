@@ -101,12 +101,14 @@ academy pedagogy. It is not a fork.
 - `configs/` — toolset restriction snippets + local-models.md
 - `examples/` — synthetic Willow, Juniper, Cedar
 - `scripts/scaffold_child_profile.py` — private scaffold
+- `scripts/aging_up_transition.py` — aging-up archive + fresh band scaffold
 - `EVALS.md` — tests, including band extras, academy subject extras, and skill-loaded cases
 - `EXAMPLE.md` — pointer at examples/
 - `WISDOMFORGE.md` — pairing a profile with the academy
 - `PRIVACY.md` — COPPA-spirit checklist
 - `docs/PARENT-GUIDE.md` — adult-profile workflow
 - `docs/FAMILY.md` — several children
+- `docs/AGING-UP.md` — band transition guide (archive, scaffold, migrate sittings)
 - `MEMORY-REVIEW.md`, `MAINTENANCE.md`
 
 ## Privacy

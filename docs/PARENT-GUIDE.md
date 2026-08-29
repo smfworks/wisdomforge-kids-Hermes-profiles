@@ -56,6 +56,10 @@ hermes profile list
 # copy seeds + configs/<band>.yaml.snippet + selected skills/
 python3 scripts/scaffold_child_profile.py --band `little` --profile <name> --out ~/private-kids-kit
 python3 scripts/check_repository.py
+# aging up: archive old band, scaffold new band, migrate approved sittings
+python3 scripts/aging_up_transition.py --from-band elementary --to-band middle \
+  --profile <name> --old-profile-dir ~/private-kids-kit/<name> \
+  --out ~/private-kids-kit --repo-dir /path/to/wisdomforge-kids-Hermes-profiles
 ```
 
 Pause and delete: write the commands you actually tested in the private
@@ -70,8 +74,9 @@ directory, filename `SKILL.md`, and you started a **fresh** child session.
 That is intended. Review with the current `/memory` and `/skills` commands.
 
 **Aging-up mid-year.** Do not raise the age number only. Use the
-MAINTENANCE.md checklist. A 10-year-old in May is still `little` until
-you redesign.
+MAINTENANCE.md checklist or run `scripts/aging_up_transition.py`. See
+`docs/AGING-UP.md` for the full walkthrough. A 10-year-old in May is still
+`little` until you redesign.
 
 **Ritual drifted after a long chat.** Re-run SKILL-07. Install
 session-boundaries. Shorten the session.
